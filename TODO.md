@@ -1,0 +1,2 @@
+- make global opencode config persistent between launches of the sandbox
+- persist sessions between launches of the sandbox
